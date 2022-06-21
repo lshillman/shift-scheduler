@@ -1,4 +1,4 @@
-# C++ shift-scheduler
+# C++ shift scheduler
 
 In a previous role, I managed about 170 student security guards. Each semester, I was responsible for collecting their availability and producing a schedule for them. By hand, the scheduling took over a week of full-time work, on top of all the other managerial stuff. After doing it once, I vowed: never again.
 
