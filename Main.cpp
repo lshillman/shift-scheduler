@@ -1,15 +1,11 @@
 //
-// COSC 072 Project 5
-// Name: Luke Hillman
-// ID: 820383637
-// E-mail: lsh25@georgetown.edu
-// Instructor: Maloof
-// TA: None
-//
-// In accordance with the class policies and Georgetown's Honor Code,
-// I certify that, with the exceptions of the class resources and those
-// items noted below, I have neither given nor received any assistance
-// on this project.
+// Shift Scheduler
+// by Luke Hillman
+// 
+// This program reads a CSV of employee availabilities for a series
+// of predefined shifts, and then allocates employees to each shift
+// beginning with the most difficult shift to fill. Originally written
+// for use at Georgetown University's Department of Public Safety.
 //
 
 #include "Main.h"
