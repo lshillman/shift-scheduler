@@ -1,6 +1,6 @@
 //
 // Shift Scheduler
-// by Luke Hillman
+// (C) 2010 Luke Hillman
 // 
 // This program reads a CSV of employee availabilities for a series
 // of predefined shifts, and then allocates employees to each shift
