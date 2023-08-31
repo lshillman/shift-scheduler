@@ -15,7 +15,6 @@
 int main() {
 
 	cout << "Scheduler 0.1\n(c) 2010 Luke Hillman, all rights reserved." << endl;
-	cout << "This program may not be used without express\nwritten permission from Luke Hillman.\n" << endl;
 	cout << "Press enter to continue..." << endl;
 	cin.get();
 
